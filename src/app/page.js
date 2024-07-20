@@ -95,7 +95,7 @@ export default function Home() {
 
           <Card
             text1={"Governor's Suite"}
-            text2={"   Classy master bedroom with a king size bed and jacuzzi with a choice of pool or park view, two sitting rooms, one of which has a mini bar, in addition to a guest restroom and a complimentary access to a private lounge that opens daily from 7 a.m. till 10 p.m."}
+            text2={"Classy master bedroom with a king size bed and jacuzzi with a choice of pool or park view, two sitting rooms, one of which has a mini bar, in addition to a guest restroom and a complimentary access to a private lounge that opens daily from 7 a.m. till 10 p.m."}
             img={"./image4.png"}
             text3={"From ₦ 170,000/night"}
             bg={"#FE7401"} bgText={"Book Now"}

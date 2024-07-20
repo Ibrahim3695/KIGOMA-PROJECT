@@ -28,7 +28,7 @@ export default function Page() {
 
       <Card
         text1={"Games Room"}
-        text2={"Our very own recreation room outfitted with game consoles, board and table games as well as a children’s KG and playpen so the little ones don’t feel left out."}
+        text2={"Our very own recreation room outfitted with game consoles, board and table games as well as a children's KG and playpen so the little ones don't feel left out."}
         img={"./Games.png"}
         w={"44%"}
         h={"55vh"} />
